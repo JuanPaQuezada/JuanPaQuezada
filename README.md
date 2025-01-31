@@ -50,12 +50,7 @@ JuanPa</a></h1>
   <br></br>
 
 
-### 📊 Lenguajes que uso
-<img src="https://img.shields.io/badge/Python-40%25-blue" />
-<img src="https://img.shields.io/badge/React-25%25-61DAFB" />
-<img src="https://img.shields.io/badge/C++-15%25-red" />
-<img src="https://img.shields.io/badge/Java-10%25-orange" />
-<img src="https://img.shields.io/badge/JavaScript-10%25-yellow" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,scss,php,typescript,other" />
 
 
 
