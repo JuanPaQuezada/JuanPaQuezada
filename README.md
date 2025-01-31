@@ -50,7 +50,7 @@ JuanPa</a></h1>
   <br></br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,scss,php,typescript,other" />
+![Lenguajes de programación](C:\Users\IK\Downloads\lineas.svg)
 
 
 
