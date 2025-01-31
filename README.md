@@ -50,7 +50,7 @@ JuanPa</a></h1>
   <br></br>
 
 
-![Lenguajes de programación](C:\Users\IK\Downloads\lineas.svg)
+<img src="file:///C:/Users/IK/Downloads/lineas.html"></img>
 
 
 
