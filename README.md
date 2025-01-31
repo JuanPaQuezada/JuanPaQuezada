@@ -45,7 +45,8 @@ JuanPa</a></h1>
 - ⚡ JavaScript ![JavaScript](https://img.shields.io/badge/-20%25-yellow)
 - 🌐 HTML ![HTML](https://img.shields.io/badge/-15%25-orange)
 - 🖥️ C++ ![C++](https://img.shields.io/badge/-20%25-red)
-- ☕ Java ![Java](https://img.shields.io/badge/-5%25-purple)<br>
+- ☕ Java ![Java](https://img.shields.io/badge/-5%25-purple)
+  <br></br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
