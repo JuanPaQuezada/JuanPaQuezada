@@ -40,6 +40,12 @@ JuanPa</a></h1>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
+- 🐍 Python ![Python](https://img.shields.io/badge/-40%25-blue)
+- ⚡ JavaScript ![JavaScript](https://img.shields.io/badge/-20%25-yellow)
+- 🌐 HTML ![HTML](https://img.shields.io/badge/-15%25-orange)
+- 🖥️ C++ ![C++](https://img.shields.io/badge/-20%25-red)
+- ☕ Java ![Java](https://img.shields.io/badge/-5%25-purple)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
