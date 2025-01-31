@@ -46,6 +46,7 @@ JuanPa</a></h1>
 - 🌐 HTML ![HTML](https://img.shields.io/badge/-50%25-orange)
 - 🖥️ C++ ![C++](https://img.shields.io/badge/-50%25-red)
 - ☕ Java ![Java](https://img.shields.io/badge/-40%25-purple)
+- 📱 React ![React](https://img.shields.io/badge/-40%25-purple)
   <br></br>
 
 
