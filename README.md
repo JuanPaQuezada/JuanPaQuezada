@@ -41,11 +41,11 @@ JuanPa</a></h1>
 <br>
 
 <b>LANGUAGE MASTERY</b>
-- 🐍 Python ![Python](https://img.shields.io/badge/-40%25-blue)
-- ⚡ JavaScript ![JavaScript](https://img.shields.io/badge/-20%25-yellow)
-- 🌐 HTML ![HTML](https://img.shields.io/badge/-15%25-orange)
-- 🖥️ C++ ![C++](https://img.shields.io/badge/-20%25-red)
-- ☕ Java ![Java](https://img.shields.io/badge/-5%25-purple)
+- 🐍 Python ![Python](https://img.shields.io/badge/-70%25-blue)
+- ⚡ JavaScript ![JavaScript](https://img.shields.io/badge/-60%25-yellow)
+- 🌐 HTML ![HTML](https://img.shields.io/badge/-50%25-orange)
+- 🖥️ C++ ![C++](https://img.shields.io/badge/-50%25-red)
+- ☕ Java ![Java](https://img.shields.io/badge/-40%25-purple)
   <br></br>
 
 
