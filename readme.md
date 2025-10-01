@@ -14,6 +14,8 @@ JuanPa</a></h1>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
+- insterested in AI
+
 - 🤝 I’m available for freelancing.
 
 - 📝 I regularly write articles
