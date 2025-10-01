@@ -7,7 +7,7 @@ JuanPa</a></h1>
 <p align="left"> <a href="https://x.com/By_Quezada" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=for-the-badge" alt="By_Quezada" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
