@@ -16,21 +16,45 @@ JuanPa</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTYxb2M4cTd2dXE3eDBhNW9ibzdtcnI0ZjE5MnBnYzR4enE3bHYzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
 </a>
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>$\boldsymbol{\Sigma}$ Engineering Profile</h3>
+        <br/>
+        <p align="justify">
+          Undergraduate researcher in <strong>Computational Intelligence</strong> at UAA. My work focuses on the convergence of <strong>stochastic systems</strong>, <strong>embedded hardware</strong>, and <strong>deep learning algorithms</strong>.
+        </p>
+        <p align="justify">
+          I am currently developing scalable architectures for <strong>autonomous agents</strong>, aiming to deploy high-performance computer vision models in the automotive sector (Target: <strong>Tesla Autopilot Team</strong>).
+        </p>
+        
+        <p>
+          🔭 <strong>Current Research:</strong> TinyML implementation on ESP32 for predictive maintenance (Industrial Stethoscope).<br/>
+          ∛ <strong>Core Competencies:</strong> Computer Vision, Fuzzy Logic, Data Structures.<br/>
+          ⚡ <strong>Architecture:</strong> Mobile (React Native) & Embedded (C++).
+        </p>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **qjuanpablo21@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
+        <p align="left">
+          <a href="https://www.linkedin.com/in/juan-pablo-quezada-86a22236a">
+            <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+          <a href="mailto:qjuanpablo21@gmail.com">
+            <img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+          </a>
+        </p>
+      </td>
+      
+      <td width="40%" align="center">
+        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 8px; opacity: 0.9;" alt="Neural Network Simulation">
+        <br/>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Status-Compiling...-success?style=flat-square&color=2ea44f" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools</h3>
 
 <p align="center">
