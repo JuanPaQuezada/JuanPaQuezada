@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="blob:https://mx.pinterest.com/363b7e33-83d7-414a-bc4a-82c98d0b3994" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
+  <img src="https://mx.pinterest.com/pin/9288742977285533/" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
 </div>
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 JuanPa</a></h1>
