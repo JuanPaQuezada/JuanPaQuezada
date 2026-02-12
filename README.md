@@ -79,23 +79,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhcsmc&layout=compact&theme=dark&hide=html,css&langs_count=6"></img>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&theme=dark&locale=en" alt="Stats" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=100rabhcsmc&theme=dark" alt="Streak" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<hr width="60%" >
-
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/juan-pablo-quezada-86a22236a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-  <a href="https://kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/JuanPa Quezada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="mailto:qjuanpablo21@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" height="30" width="40" /></a>
-</p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
-
-------
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&
