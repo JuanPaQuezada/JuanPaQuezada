@@ -1,86 +1,47 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/6b/dd/55/6bdd55bf381cc36dae07ffca4b4a36d3.jpg" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
+  <img src="https://i.pinimg.com/1200x/bd/b0/17/bdb017414ea265634e09e17de8d953bc.jpg" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=338BFD&center=true&vCenter=true&width=1000&lines=Juan+Pablo+Quezada+Jimenez;Computational+Intelligence+Engineer;%5B+AI+%E2%80%A2+Robotics+%E2%80%A2+Control+Systems+%5D" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/100rabhcsmc" target="blank">JuanPa</a></h1>
+
+<h3 align="center">"Undergraduate Researcher in Computational Intelligence & Robotics"</h3>
+
+<p align="center">
+  I am a <strong>Computational Intelligence Engineering</strong> student at UAA. 
+  My work focuses on <strong>stochastic systems</strong>, <strong>embedded hardware</strong>, and <strong>deep learning algorithms</strong>.
+  My goal is to deploy high-performance computer vision models in the automotive sector (Target: <strong>Tesla Autopilot</strong>).
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=for-the-badge" alt="By_Quezada" /></a> </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTYxb2M4cTd2dXE3eDBhNW9ibzdtcnI0ZjE5MnBnYzR4enE3bHYzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
 </a>
-</div>
 
+- 🔭 I’m currently working on an **Industrial Stethoscope** using **TinyML** & **ESP32**.
+
+- 🌱 I’m currently researching **Neural Networks** and **Fuzzy Logic Control**.
+
+- 🤝 I’m available for **R&D collaborations** in Robotics.
+
+- 📝 I regularly study **Computer Vision** architectures.
+
+- 💬 Ask me about **C++, Python (Data Science) & React Native**.
+
+- 📫 How to reach me **qjuanpablo21@gmail.com**
+
+- 📄 Know about my experiences <a href="#" target="blank">Academic CV</a>
 <br/>
 
-<div align="center">
-<table border="0" width="100%">
-<tr>
-<td width="60%" valign="top">
-<h3>Σ Engineering Profile</h3>
-<br/>
-<p align="justify">
-Undergraduate researcher in <strong>Computational Intelligence</strong> at UAA. My work focuses on the convergence of <strong>stochastic systems</strong>, <strong>embedded hardware</strong>, and <strong>deep learning algorithms</strong>.
-</p>
-<p align="justify">
-I am currently developing scalable architectures for <strong>autonomous agents</strong>, aiming to deploy high-performance computer vision models in the automotive sector (Target: <strong>Tesla Autopilot Team</strong>).
-</p>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technical Arsenal</h3>
 
-<p>
-🔭 <strong>Current Research:</strong> TinyML implementation on ESP32 for predictive maintenance (Industrial Stethoscope).<br/>
-∛ <strong>Core Competencies:</strong> Computer Vision, Fuzzy Logic, Data Structures.<br/>
-⚡ <strong>Architecture:</strong> Mobile (React Native) & Embedded (C++).
-</p>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/juan-pablo-quezada-86a22236a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:qjuanpablo21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-</td>
-
-<td width="40%" align="center">
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 8px; opacity: 0.9;" alt="Neural Network Simulation">
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Compiling...-success?style=flat-square&color=2ea44f" />
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px">
-</div>
-
-<br/>
-
-<h3 align="center">∫ Technical Arsenal</h3>
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-</div>
-
-<br/><br/>
-
-<h3 align="center">Δ Contribution Metrics</h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&theme=transparent&hide_border=true&title_color=338BFD&text_color=ffffff&icon_color=338BFD&hide=stars,issues" height="150" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhcsmc&layout=compact&theme=transparent&hide_border=true&title_color=338BFD&text_color=ffffff&hide=html,css" height="150" alt="Langs" />
-</div>
+<p align="center">
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt
