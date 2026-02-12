@@ -4,42 +4,57 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/100rabhcsmc" target="blank">JuanPa</a></h1>
 
-<h3 align="center">"Undergraduate Researcher in Computational Intelligence & Robotics"</h3>
+<h3 align="center">UNDERGRADUATE RESEARCHER: COMPUTATIONAL INTELLIGENCE & ROBOTICS</h3>
 
 <p align="center">
-  I am a <strong>Computational Intelligence Engineering</strong> student at UAA. 
-  My work focuses on <strong>stochastic systems</strong>, <strong>embedded hardware</strong>, and <strong>deep learning algorithms</strong>.
-  My goal is to deploy high-performance computer vision models in the automotive sector (Target: <strong>Tesla Autopilot</strong>).
+  Engineering student at UAA specializing in <strong>Stochastic Systems</strong>, <strong>Embedded Hardware</strong>, and <strong>Deep Learning Algorithms</strong>.<br>
+  Targeting deployment of high-performance computer vision models in the automotive sector (<strong>Tesla Autopilot</strong>).
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" /> </p>
 
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=for-the-badge" alt="By_Quezada" /></a> </p>
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=flat-square&label=FOLLOW" alt="By_Quezada" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTYxb2M4cTd2dXE3eDBhNW9ibzdtcnI0ZjE5MnBnYzR4enE3bHYzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
 </a>
 
-- 🔭 I’m currently working on an **Industrial Stethoscope** using **TinyML** & **ESP32**.
+<div align="left">
+  <table border="0">
+    <tr>
+      <td valign="top"><strong>▹ CURRENT FOCUS</strong></td>
+      <td>Developing Real-time <code>Signal Processing</code> & <code>Edge AI</code> architectures on ESP32/ARM.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>▹ RESEARCH AREA</strong></td>
+      <td><code>Neuro-Fuzzy Control Systems</code> and <code>Deep Learning Optimization</code> for autonomous agents.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>▹ COLLABORATION</strong></td>
+      <td>Open to R&D roles in <code>Robotics</code>, <code>Automation</code> & <code>Embedded Systems</code>.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>▹ CORE DOMAIN</strong></td>
+      <td><code>Computer Vision (YOLO/OpenCV)</code>, <code>Data Structures</code> & <code>Low-Level C++</code>.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>▹ EXPERTISE</strong></td>
+      <td><code>Embedded AI</code>, <code>Python Data Pipelines</code> & <code>React Native Architecture</code>.</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>▹ CONTACT</strong></td>
+      <td><b>qjuanpablo21@gmail.com</b></td>
+    </tr>
+  </table>
+</div>
 
-- 🌱 I’m researching **Neural Networks** and **Fuzzy Logic Control**.
-
-- 🤝 I’m available for **R&D collaborations** in Robotics.
-
-- 📝 I regularly study **Computer Vision** architectures and **Algorithms**.
-
-- 💬 Ask me about **C++, Python (Data Science) & React Native**.
-
-- 📫 How to reach me **qjuanpablo21@gmail.com**
-
-- 📄 Know about my experiences <a href="#" target="blank">Academic CV</a>
 <br/>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technical Arsenal</h3>
+<h3 align="center">:: TECHNICAL ARSENAL ::</h3>
 
 <p align="center">
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LANGUAGES & TOOLS</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -63,7 +78,7 @@
 
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
+<h3>GITHUB ANALYTICS</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
@@ -92,7 +107,7 @@
 
 <hr width="60%" >
 
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left">CONNECT</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-pablo-quezada-86a22236a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
@@ -101,6 +116,6 @@
   <a href="mailto:qjuanpablo21@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="views" /> </p>
 
 ------
