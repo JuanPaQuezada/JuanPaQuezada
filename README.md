@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/6b/dd/55/6bdd55bf381cc36dae07ffca4b4a36d3.jpg" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
-</div>
-<div align="center">
 <img src="https://i.pinimg.com/736x/6b/dd/55/6bdd55bf381cc36dae07ffca4b4a36d3.jpg" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
 </div>
 
@@ -82,4 +79,8 @@ I am currently developing scalable architectures for <strong>autonomous agents</
 
 <br/><br/>
 
-<h3
+<h3 align="center">Δ Contribution Metrics</h3>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&theme=transparent&hide_border=true&title_color=338BFD&text_color=ffffff&icon_color=338BFD&hide=stars,issues" height="150" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhcsmc&layout=compact&theme=transparent&hide_border=true&title_color=338BFD&text_color=ffffff&hide=html,css" height="150" alt="Langs" />
+</div>
