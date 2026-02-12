@@ -15,40 +15,45 @@
 
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=flat-square&label=FOLLOW" alt="By_Quezada" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTYxb2M4cTd2dXE3eDBhNW9ibzdtcnI0ZjE5MnBnYzR4enE3bHYzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif">
-</a>
+<div>
+  <a target="_blank">
+    <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTYxb2M4cTd2dXE3eDBhNW9ibzdtcnI0ZjE5MnBnYzR4enE3bHYzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" width="400" style="border-radius: 10px;" alt="GIF" />
+  </a>
 
-<div align="left">
-  <table border="0">
-    <tr>
-      <td valign="top"><strong>▹ CURRENT FOCUS</strong></td>
-      <td>Developing Real-time <code>Signal Processing</code> & <code>Edge AI</code> architectures on ESP32/ARM.</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>▹ RESEARCH AREA</strong></td>
-      <td><code>Neuro-Fuzzy Control Systems</code> and <code>Deep Learning Optimization</code> for autonomous agents.</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>▹ COLLABORATION</strong></td>
-      <td>Open to R&D roles in <code>Robotics</code>, <code>Automation</code> & <code>Embedded Systems</code>.</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>▹ CORE DOMAIN</strong></td>
-      <td><code>Computer Vision (YOLO/OpenCV)</code>, <code>Data Structures</code> & <code>Low-Level C++</code>.</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>▹ EXPERTISE</strong></td>
-      <td><code>Embedded AI</code>, <code>Python Data Pipelines</code> & <code>React Native Architecture</code>.</td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>▹ CONTACT</strong></td>
-      <td><b>qjuanpablo21@gmail.com</b></td>
-    </tr>
-  </table>
+  <br>
+
+  <p>
+    <strong>Σ CURRENT FOCUS</strong> <br>
+    Developing Real-time <code>Signal Processing</code> & <code>Edge AI</code> architectures on ESP32/ARM microcontrollers.
+  </p>
+
+  <p>
+    <strong>Σ RESEARCH AREA</strong> <br>
+    Investigation of <code>Neuro-Fuzzy Control Systems</code> and <code>Deep Learning Optimization</code> for autonomous agents.
+  </p>
+
+  <p>
+    <strong>Σ COLLABORATION</strong> <br>
+    Open to R&D roles in <code>Robotics</code>, <code>Automation</code> & <code>Embedded Systems</code>.
+  </p>
+
+  <p>
+    <strong>Σ CORE DOMAIN</strong> <br>
+    <code>Computer Vision (YOLO/OpenCV)</code>, <code>Data Structures</code> & <code>Low-Level C++</code>.
+  </p>
+  
+  <p>
+    <strong>Σ EXPERTISE</strong> <br>
+    <code>Embedded AI</code>, <code>Python Data Pipelines</code> & <code>React Native Architecture</code>.
+  </p>
+
+  <p>
+    <strong>Σ CONTACT</strong> <br>
+    <b>qjuanpablo21@gmail.com</b>
+  </p>
 </div>
 
-<br/>
+<br clear="all" /> <br/>
 
 <h3 align="center">:: TECHNICAL ARSENAL ::</h3>
 
