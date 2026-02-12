@@ -96,11 +96,6 @@
 <br></br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhcsmc&layout=compact&theme=dark&hide=html,css&langs_count=6"></img>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&theme=dark&locale=en" alt="Stats" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=100rabhcsmc&theme=dark" alt="Streak" /></p>
 <br><br><br><br><br><br><br><br><br><br>
