@@ -11,7 +11,7 @@
   Targeting deployment of high-performance computer vision models in the automotive sector (<strong>Tesla Autopilot</strong>).
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanPaQuezada&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" /> </p>
 
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=flat-square&label=FOLLOW" alt="By_Quezada" /></a> </p>
 
@@ -101,7 +101,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=100rabhcsmc&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanPaQuezada&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 <br>
 
