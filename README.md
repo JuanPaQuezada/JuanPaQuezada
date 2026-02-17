@@ -15,6 +15,25 @@
 
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=flat-square&label=FOLLOW" alt="By_Quezada" /></a> </p>
 
+<h3 align="center">🚀 FEATURED PROJECTS</h3>
+
+> **[Industrial Stethoscope for Predictive Maintenance](#)** > * **Tech:** C++, ESP32, TinyML, Signal Processing
+> * **Impact:** Developed an Edge AI hardware solution capable of real-time motor diagnostics and predictive maintenance using embedded microcontrollers.
+
+> **[Neuro-Fuzzy Power Supervisor for EVs](#)**
+> * **Tech:** Python, Control Systems, Optimization Algorithms
+> * **Impact:** Implemented a neuro-fuzzy logic system to supervise and optimize power distribution in electric vehicles.
+
+> **[Enterprise Data Management System](#)**
+> * **Tech:** Low-Level C++, Data Structures
+> * **Impact:** Engineered a robust command-line application using nested structs and memory management for persistent client and employee data tracking.
+
+> **[Python Algorithmic Engine (Blackjack)](#)**
+> * **Tech:** Python, OOP, Collaborative Development (Git)
+> * **Impact:** Collaborated in a team environment to develop a logic-driven game engine, focusing on clean code architecture and version control.
+
+---
+
 <div>
   <a target="_blank">
     <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTYxb2M4cTd2dXE3eDBhNW9ibzdtcnI0ZjE5MnBnYzR4enE3bHYzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" width="400" style="border-radius: 10px;" alt="GIF" />
