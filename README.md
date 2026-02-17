@@ -11,10 +11,11 @@
   Targeting deployment of high-performance computer vision models in the automotive sector (<strong>Tesla Autopilot</strong>).
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanPaQuezada&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" /> </p>
-
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=flat-square&label=FOLLOW" alt="By_Quezada" /></a> </p>
-
+<div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanPaQuezada&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" /> </p>
+  
+  <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=flat-square&label=FOLLOW" alt="By_Quezada" /></a> </p>
+</div>
 <h3 align="center">🚀 FEATURED PROJECTS</h3>
 
 > **[Industrial Stethoscope for Predictive Maintenance](#)** > * **Tech:** C++, ESP32, TinyML, Signal Processing
