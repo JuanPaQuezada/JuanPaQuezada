@@ -116,6 +116,6 @@
   <a href="mailto:qjuanpablo21@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanPaQuezada&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="views" /> </p>
 
 ------
