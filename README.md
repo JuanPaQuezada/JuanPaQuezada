@@ -25,7 +25,8 @@
 
 <h3 align="center">🚀 FEATURED PROJECTS</h3>
 
-> **[Industrial Stethoscope for Predictive Maintenance](https://github.com/JuanPaQuezada/estetoscopio-industrial-tinyml.git)** > * **Tech:** C++, ESP32, TinyML, Signal Processing
+> **[Industrial Stethoscope for Predictive Maintenance](https://github.com/JuanPaQuezada/estetoscopio-industrial-tinyml.git)**
+> * **Tech:** C++, ESP32, TinyML, Signal Processing
 > * **Impact:** Developed an Edge AI hardware solution capable of real-time motor diagnostics and predictive maintenance using embedded microcontrollers.
 
 > **[Neuro-Fuzzy Power Supervisor for EVs](https://github.com/JuanPaQuezada/Neuro-Fuzzy-EV-Power-Management.git)**
