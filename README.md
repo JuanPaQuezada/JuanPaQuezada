@@ -25,10 +25,10 @@
 
 <h3 align="center">🚀 FEATURED PROJECTS</h3>
 
-> **[https://github.com/JuanPaQuezada/estetoscopio-industrial-tinyml.git](#)** > * **Tech:** C++, ESP32, TinyML, Signal Processing
+> **[Industrial Stethoscope for Predictive Maintenance](https://github.com/JuanPaQuezada/estetoscopio-industrial-tinyml.git)** > * **Tech:** C++, ESP32, TinyML, Signal Processing
 > * **Impact:** Developed an Edge AI hardware solution capable of real-time motor diagnostics and predictive maintenance using embedded microcontrollers.
 
-> **[Neuro-Fuzzy Power Supervisor for EVs](#)**
+> **[Neuro-Fuzzy Power Supervisor for EVs](https://github.com/JuanPaQuezada/Neuro-Fuzzy-EV-Power-Management.git)**
 > * **Tech:** Python, Control Systems, Optimization Algorithms
 > * **Impact:** Implemented a neuro-fuzzy logic system to supervise and optimize power distribution in electric vehicles.
 
@@ -36,7 +36,7 @@
 > * **Tech:** Low-Level C++, Data Structures
 > * **Impact:** Engineered a robust command-line application using nested structs and memory management for persistent client and employee data tracking.
 
-> **[Python Algorithmic Engine (Blackjack)](#)**
+> **[Python Algorithmic Engine (Blackjack)](https://github.com/JuanPaQuezada/blackjack-python-project.git)**
 > * **Tech:** Python, OOP, Collaborative Development (Git)
 > * **Impact:** Collaborated in a team environment to develop a logic-driven game engine, focusing on clean code architecture and version control.
 
