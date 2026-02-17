@@ -22,19 +22,19 @@
 
   <br>
 
-  <p>
+ <p>
     <strong>Σ CURRENT FOCUS</strong> <br>
-    Developing Real-time <code>Signal Processing</code> & <code>Edge AI</code> architectures on ESP32/ARM microcontrollers.
+    Developing Real-time <code>Signal Processing (FFT)</code> & <code>Edge AI</code> architectures on ESP32/ARM microcontrollers.
   </p>
 
   <p>
     <strong>Σ RESEARCH AREA</strong> <br>
-    Investigation of <code>Neuro-Fuzzy Control Systems</code> and <code>Deep Learning Optimization</code> for autonomous agents.
+    Investigation of <code>Neuro-Fuzzy Control Systems</code>, <code>Occupancy Networks</code>, and <code>DeepDream</code> algorithms for autonomous agents.
   </p>
-
+  
   <p>
-    <strong>Σ COLLABORATION</strong> <br>
-    Open to R&D roles in <code>Robotics</code>, <code>Automation</code> & <code>Embedded Systems</code>.
+    <strong>Σ ALGORITHMIC FOUNDATIONS</strong> <br>
+    Applying <code>Graph Theory</code>, <code>Advanced Calculus</code>, and optimization methods to solve complex data problems.
   </p>
 
   <p>
