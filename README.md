@@ -14,10 +14,8 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=JuanPaQuezada&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views" /> 
-  </p>
-  
-  <p align="center"> 
-    <a href="#" target="blank">
+
+  <a href="#" target="blank">
       <img src="https://img.shields.io/twitter/follow/By_Quezada?logo=twitter&style=flat-square&label=FOLLOW" alt="By_Quezada" />
     </a> 
   </p>
