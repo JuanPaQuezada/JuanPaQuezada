@@ -31,7 +31,7 @@
 > * **Tech:** Python, Control Systems, Optimization Algorithms
 > * **Impact:** Implemented a neuro-fuzzy logic system to supervise and optimize power distribution in electric vehicles.
 
-> **[Autonomous Fleet Control System](#)**
+> **[Autonomous Fleet Control System](https://github.com/JuanPaQuezada/cpp-robot-fleet-manager.git)**
 > * **Tech:** C++, Object-Oriented Design, Hardware Abstraction, Dynamic Memory Management
 > * **Impact:** Developed a scalable hardware abstraction layer using C++ polymorphism to manage diverse robotic units (Drones, Industrial). Implemented custom dynamic memory management and thread-timing controls for real-time operation simulation.
 
