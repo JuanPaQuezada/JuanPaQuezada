@@ -35,6 +35,10 @@
 > * **Tech:** C++, Object-Oriented Design, Hardware Abstraction, Dynamic Memory Management
 > * **Impact:** Developed a scalable hardware abstraction layer using C++ polymorphism to manage diverse robotic units (Drones, Industrial). Implemented custom dynamic memory management and thread-timing controls for real-time operation simulation.
 
+> **[Automotive ABS Sensor Firmware](https://github.com/JuanPaQuezada/automotive-absbrake-ecu-cpp.git)**
+> * **Tech:** C++, Hardware Abstraction, AUTOSAR Architecture, Google test, WCET
+> * **Impact:** This project demonstrates production-ready automotive firmware engineering by combining hard real-time determinism with modern C++ safety paradigms. It eliminates runtime memory risks and enforces compile-time hardware validation, ensuring fail-safe reliability for mission-critical vehicle systems.
+
 > **[Python Algorithmic Engine (Blackjack)](https://github.com/JuanPaQuezada/blackjack-python-project.git)**
 > * **Tech:** Python, OOP, Collaborative Development (Git)
 > * **Impact:** Collaborated in a team environment to develop a logic-driven game engine, focusing on clean code architecture and version control.
