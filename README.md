@@ -128,7 +128,7 @@
 <div align=center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPaQuezada&theme=dark" alt="Streak" />
 </div>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanPaQuezada&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
