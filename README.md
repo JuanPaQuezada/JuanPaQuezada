@@ -125,7 +125,7 @@
 - ⚡ JavaScript ![JavaScript](https://img.shields.io/badge/-50%25-yellow)
 <br></br>
 
-<div align=center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPaQuezada&theme=dark" alt="Streak" />
 </div>
 <br><br><br><br>
