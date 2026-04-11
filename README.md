@@ -144,6 +144,7 @@
   <a href="https://kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
   <a href="https://instagram.com/JuanPa Quezada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
   <a href="mailto:qjuanpablo21@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/JuanPaQuezadaa/" target="blank"><img align="center" src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" alt="leetcode" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanPaQuezada&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="views" /> </p>
