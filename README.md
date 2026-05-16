@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/6b/dd/55/6bdd55bf381cc36dae07ffca4b4a36d3.jpg" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
+  <img src="![Uploading 1022246815431609278.jpeg…]()
+" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/100rabhcsmc" target="blank">JuanPa</a></h1>
