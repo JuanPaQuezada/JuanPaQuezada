@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![Uploading 1022246815431609278.jpeg…]()" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
+  <img src="/home/juanpa333/Downloads/1022246815431609278.jpeg" width="100%" style="border-radius: 10px;" alt="Banner JuanPa" />
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/100rabhcsmc" target="blank">JuanPa</a></h1>
