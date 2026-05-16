@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/dc/7d/f9/dc7df9bec1eee8b44a6ccee3b80b6c6f.jpg" width="100%" height="70%" style="border-radius: 10px;" alt="Banner JuanPa" />
+  <img src="https://i.pinimg.com/736x/dc/7d/f9/dc7df9bec1eee8b44a6ccee3b80b6c6f.jpg" width="100%" height="30" style="border-radius: 10px;" alt="Banner JuanPa" />
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/100rabhcsmc" target="blank">JuanPa</a></h1>
